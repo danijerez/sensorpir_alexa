@@ -1,6 +1,8 @@
-# Sensor Pir Alexa - EN PROCESO
+# Sensor Pir Pápa Noel - BETA
 
+¿Necesitas que alexa te avise cuando Papa Noel ha llegado? Monta un sensor de movimiento con arduino que envia notificaciones por Alexa.
 
+<img src="img/photos/papanoel.png" width="60%"/> 
 
 # Hardware
 
@@ -54,14 +56,17 @@ El proceso que yo segui es el siguiente
 
 <img src="img/arduino/circuito.png" width="40%"/> 
 
+# Resultado
+<img src="img/photos/resultado.png" width="30%"/> 
+
+
 # Pruebas
 
 Dejo algunos videos de prueba mientras hice el proyecto, espero que os guste!
 
 |   |   | 
 |---|---|
-|[<img src="img/icos/youtube.png" width="20%"/>](https://youtu.be/0RNIjLOwQlc "test 1 - alexa doorbell")| Probando el funcionamiento del timbre con una pila|
-|[<img src="img/icos/youtube.png" width="20%"/>](https://youtu.be/eLEP1y79GZg "test 2 - alexa doorbell")| Probando el timbre simulando la pulsacion y conectado a la corriente |
+|[<img src="img/icos/youtube.png" width="20%"/>](https://youtu.be/p0Ol2eTvcVU "sensor pir alexa")| Probando el funcionamiento del sensor pir|
 
 # Documentación
 
