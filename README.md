@@ -6,6 +6,8 @@
 
 # ¿Que es un sensor Pir?
 
+<img src="img/arduino/sensor-pir.png" width="40%"/> 
+
 Los sensores infrarrojos pasivos (PIR) son dispositivos para la detección de movimiento. Son baratos, pequeños, de baja potencia, y fáciles de usar. Por esta razón son frecuentemente usados en juguetes, aplicaciones domóticas o sistemas de seguridad. Si te interesa saber mas, te dejo en la documentación un enlace donde lo explican en profundidad.
 
 # Hardware
@@ -54,12 +56,16 @@ Pasos previos antes de construir el dispositivo
 
 El proceso que yo segui es el siguiente. En resumen, nos vale cualquier tipo de "arduino" con adaptador wifi y un sensor Pir, en mi caso, utilice un "wemos d1", el esquema que dejo a continuación es practicamente igual para todos.
 
+
+
 |   |   |   |
 |---|---|---|
 |  1 | <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/ArduinoAPP-01.svg" width="30%"/>  | Instalar la libreria PubSubClient en el IDE - <a href="https://github.com/knolleary/pubsubclient">ver codigo</a> .  |
 |  2 | <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/ArduinoAPP-01.svg" width="30%"/>  | Flashear el codigo en el arduino nano - <a href="https://github.com/danijerez/doorbell_alexa/blob/master/doorbell/doorbell.ino">ver codigo</a> .  |
 
 <img src="img/arduino/circuito.png" width="40%"/> 
+
+<img src="img/arduino/pir-back.png" width="40%"/> 
 
 # Resultado
 Podemos proteger o camuflar el circuito en una caja y posteriormente conectarlo a la corriente.
