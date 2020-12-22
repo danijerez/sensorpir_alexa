@@ -1,8 +1,12 @@
 # Sensor Pir Pápa Noel - BETA
 
-¿Necesitas que alexa te avise cuando Papa Noel ha llegado? Monta un sensor de movimiento con arduino que envia notificaciones por Alexa.
+¿Necesitas que alexa te avise cuando Papa Noel ha llegado? Monta un sensor de movimiento con arduino que envia notificaciones por Alexa. Tambien vale para los reyes magos, y bueno, para los intrusos...
 
 <img src="img/photos/papanoel.png" width="60%"/> 
+
+# ¿Que es un sensor Pir?
+
+Los sensores infrarrojos pasivos (PIR) son dispositivos para la detección de movimiento. Son baratos, pequeños, de baja potencia, y fáciles de usar. Por esta razón son frecuentemente usados en juguetes, aplicaciones domóticas o sistemas de seguridad. Si te interesa saber mas, te dejo en la documentación un enlace donde lo explican en profundidad.
 
 # Hardware
 
@@ -48,7 +52,8 @@ Pasos previos antes de construir el dispositivo
 
 # Proceso
 
-El proceso que yo segui es el siguiente
+El proceso que yo segui es el siguiente. En resumen, nos vale cualquier tipo de "arduino" con adaptador wifi y un sensor Pir, en mi caso, utilice un "wemos d1", el esquema que dejo a continuación es practicamente igual para todos.
+
 |   |   |   |
 |---|---|---|
 |  1 | <img src="https://www.arduino.cc/en/pub/skins/arduinoWide/img/ArduinoAPP-01.svg" width="30%"/>  | Instalar la libreria PubSubClient en el IDE - <a href="https://github.com/knolleary/pubsubclient">ver codigo</a> .  |
@@ -57,19 +62,22 @@ El proceso que yo segui es el siguiente
 <img src="img/arduino/circuito.png" width="40%"/> 
 
 # Resultado
+Podemos proteger o camuflar el circuito en una caja y posteriormente conectarlo a la corriente.
+
 <img src="img/photos/resultado.png" width="30%"/> 
 
 
 # Pruebas
 
-Dejo algunos videos de prueba mientras hice el proyecto, espero que os guste!
+Dejo algunos videos de prueba mientras hice el proyecto, Alexa permite personalizar bastante el sonido de las alertas. Espero que os guste!
 
 |   |   | 
 |---|---|
-|[<img src="img/icos/youtube.png" width="20%"/>](https://youtu.be/p0Ol2eTvcVU "sensor pir alexa")| Probando el funcionamiento del sensor pir|
+|[<img src="img/icos/youtube.png" width="20%"/>](https://youtu.be/XkGclKIlED0 "sensor pir alexa")| Probando el funcionamiento del sensor pir|
 
 # Documentación
 
 * https://www.youtube.com/watch?v=cgfVXPfCgkc
 * https://www.smartnest.cz
 * https://github.com/knolleary/pubsubclient
+* https://www.luisllamas.es/detector-de-movimiento-con-arduino-y-sensor-pir
