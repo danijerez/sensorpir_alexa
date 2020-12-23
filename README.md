@@ -1,8 +1,8 @@
-# Sensor Pir Pápa Noel - BETA
+# Sensor Pir Pápa Noel / Reyes Magos 
 
-¿Necesitas que alexa te avise cuando Papa Noel ha llegado? Monta un sensor de movimiento con arduino que envia notificaciones por Alexa. Tambien vale para los reyes magos, y bueno, para los intrusos...
+¿Necesitas que alexa te avise cuando Papa Noel ha llegado? Monta un sensor de movimiento con arduino que envia notificaciones por Alexa. También vale para los reyes magos, y bueno, para los intrusos...
 
-<img src="img/photos/papanoel.png" width="60%"/> 
+<img src="img/photos/papanoel.png" width="100%"/> 
 
 # ¿Que es un sensor Pir?
 
