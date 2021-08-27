@@ -60,7 +60,7 @@ Los sensores infrarrojos pasivos (PIR) son dispositivos para la detección de mo
 [![Source](https://img.shields.io/badge/Librería_PubSubClient-008184?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/knolleary/pubsubclient)
 
 ## 💾 Código
-[![Source](https://img.shields.io/badge/flash_doorbell.ino_with_arduino_ide-999999?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/danijerez/doorbell_alexa/tree/master/doorbell)
+[![Source](https://img.shields.io/badge/flash_pir.ino_with_arduino_ide-999999?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/danijerez/sensorpir_alexa/tree/master/pir)
 
 ## 🎨 Preparación
 |#|   |   |
